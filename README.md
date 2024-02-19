@@ -8,5 +8,5 @@ FlashChat: A Python project for real-time chat application using FastAPI and Sve
 3.Run the project: docker-compose up -d<br>
 
 # Requirements
-Docker and Docker compose
+Docker and Docker compose<br>
 Python 3.9
